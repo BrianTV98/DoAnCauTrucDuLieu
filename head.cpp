@@ -1,0 +1,2 @@
+void DocfileVatTu();
+void GhifileVatTu();
